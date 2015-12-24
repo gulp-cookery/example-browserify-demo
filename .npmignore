@@ -1,3 +1,22 @@
-dist
+# Build
 test
+.eslintrc.json
+gruntfile.js
 gulpfile.js
+jsdoc.conf.json
+
+# Examples
+examples
+
+# IDE Settings
+.editorconfig
+.idea
+.settings
+.vscode
+
+# Logs
+logs
+*.log
+
+# NPM
+.npmignore
