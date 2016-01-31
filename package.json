@@ -6,8 +6,8 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "gulpjs/gulp#4.0",
-    "gulp-chef": "github:gulp-cookery/gulp-chef",
-    "gulp-ccr-browserify": "github:gulp-cookery/gulp-ccr-browserify"
+    "gulp-chef": "^0.1.0",
+    "gulp-ccr-browserify": "^0.1.0"
   },
   "dependencies": {
   }
