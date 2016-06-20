@@ -1,14 +1,13 @@
 {
   "name": "browserify-demo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Demonstrates transforming scripts using Browserify with gulp-chef and gulp-ccr-browserify.",
   "author": "Amobiz",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "gulpjs/gulp#4.0",
-    "gulp-chef": "^0.1.0",
-    "gulp-ccr-browserify": "^0.1.0"
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-ccr-browserify": "^0.1.3",
+    "gulp-chef": "^0.1.3"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
